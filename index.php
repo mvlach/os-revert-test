@@ -1,5 +1,5 @@
 <?php
  
 
-	echo "version 6";
+	echo "new version 1";
 ?>
